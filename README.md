@@ -1,6 +1,6 @@
 # Script for sorting assignments
 
-Still working in progress
+Work in Progress
 
 This script automates some parts of the marking process (such as sorting and organising) in order to save time.
 This includes:
