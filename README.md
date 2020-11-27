@@ -1,4 +1,4 @@
-# Script for sorting assignments
+# sorting-script
 
 Work in Progress
 
