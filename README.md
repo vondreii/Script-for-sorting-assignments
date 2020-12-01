@@ -8,4 +8,6 @@ This includes:
 2. Creating a copy of the marking guide for each student, stored in their own folders
 3. Renaming all feedback files
 4. Checking who has a late submission 
+
+This only works with the zip files generated from UONline (Blackboard) - University of Newcastle.
 	
