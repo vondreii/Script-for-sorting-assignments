@@ -9,5 +9,5 @@ This includes:
 3. Renaming all feedback files
 4. Checking who has a late submission 
 
-This only works with the zip files generated from UONline (Blackboard) - University of Newcastle.
+This only works with the zip files generated from UONline (Blackboard) - University of Newcastle and certain assignment submission file formats.
 	
