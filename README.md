@@ -6,8 +6,8 @@ This script automates some parts of the university marking process (such as sort
 
 This includes:
 * Unzipping all student assignments automatically 
-* Creating a copy of the assignment specs for each student, stored in their own folders
-* Renaming all feedback files
+* Sorting each student into a separate folder with their files
+* Copying the feedback sheet into each student's folder
 
 ## To Run 
 
