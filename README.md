@@ -2,7 +2,7 @@
 
 ## About 
 
-This script automates some parts of the university marking process (such as sorting and organising).
+This script was made to assist lecturers and tutors at uni. It automates some parts of the university marking process (such as sorting and organising files).
 
 This includes:
 * Unzipping all student assignments automatically 
