@@ -34,7 +34,7 @@ When testing, use the **gradebook-example/Gradebook.zip** folder.
 Another folder explorer will open asking you to navigate to the feedback sheet you want to copy for each student.
 When testing, use the **gradebook-example/Feedback-Template.xlsx** file.
 	
-## To build:
+## To build
 
 If you want to make changes and re-compile the program, run the command:
 
